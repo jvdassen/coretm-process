@@ -15,7 +15,8 @@
   "dizmo": {
     "settings": {
       "attributes": {
-        "settings/usercontrols/allowresize": true
+        "settings/usercontrols/allowresize": true,
+        "settings/framecolor": "#2a2a2a"
       },
       "bundle-identifier": "com.vonderassen.coretm_metaprocess",
       "bundle-name": "MetaProcess",
@@ -24,7 +25,7 @@
       "tags": [
         "meta-process"
       ],
-      "width": 480
+      "width": 1000
     },
     "store": {
       "host": "https://store-api.dizmo.com"
